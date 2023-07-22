@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<h3><i>Spare some time to take a look at my <a href="">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://tushar092.github.io/">portfolio</a>!</i></h3>
 
 <a href="https://github.com/Tushar092/Tushar092"><img src="https://github.com/Tushar092/Tushar092/blob/main/images/Image_Pro.jpg" align="right" height="300"></a>
 
