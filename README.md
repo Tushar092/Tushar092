@@ -2,7 +2,7 @@
 
 <h3><i>Spare some time to take a look at my <a href="">portfolio</a>!</i></h3>
 
-<a href="https://github.com/Tushar092/Tushar092/blob/main/images/Image_Pro.jpg"><img src="" align="right" height="300"></a>
+<a href="https://github.com/Tushar092/Tushar092"><img src="https://github.com/Tushar092/Tushar092/blob/main/images/Image_Pro.jpg" align="right" height="300"></a>
 
 # About myself
 
