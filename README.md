@@ -2,7 +2,7 @@
 
 <h3><i>Spare some time to take a look at my <a href="">portfolio</a>!</i></h3>
 
-<a href=""><img src="" align="right" height="300"></a>
+<a href="./images/Image_Pro.jpg"><img src="" align="right" height="300"></a>
 
 # About myself
 
@@ -42,7 +42,7 @@ This is a list of my most recent activity on GitHub.
   </tr>
   <tr>
     <td>B.Tech. in Computer Science and Engineering</td>
-    <td><a href="https://mu.ac.in/">GD Goenka University</a></td>
+    <td>GD Goenka University</td>
     <td>2022</td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ This is a list of my most recent activity on GitHub.
   </tr>
   <tr>
     <td>Secondary School Certification</td>
-    <td><a href="https://kaveri.edu.in/khsg/">Central Academy SR. SEC. School</a></td>
+    <td>Central Academy SR. SEC. School</td>
     <td>2013</td>
   </tr>
  </table>
@@ -162,7 +162,6 @@ This is a list of my most recent activity on GitHub.
   -->
 # Languages
 - <strong>Full professional proficiency:</strong> English, Hindi
-- <strong>Elementary proficiency:</strong> Tamil, Gujarati
 - <strong>Foreign Languages</strong>: German
 
 # Quick Links
