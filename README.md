@@ -166,7 +166,7 @@ This is a list of my most recent activity on GitHub.
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/karan-singh-648b3b234/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/karan-singh-648b3b234/" target="_blank"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 
 
 <!--
