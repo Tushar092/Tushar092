@@ -1,4 +1,5 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+<!-- ![image](https://github.com/Tushar092/Tushar092/assets/115460900/6d138ecf-de07-43a4-a71e-13511258596c) -->
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="22">
 
 <h3><i>Spare some time to take a look at my <a href="https://tushar092.github.io/">portfolio</a>!</i></h3>
 
@@ -21,10 +22,6 @@
 A passionate individual who loves building web applications, a developer by passion, an engineer by profession and a photographer by interest.
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
-
-# Status
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 ## Recent Activity
 
@@ -154,7 +151,12 @@ This is a list of my most recent activity on GitHub.
     <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
   </tr>
  </table>
- 
+
+ # Status
+
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tushar092&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 # Achievements
 - Best Project to solve a big AEC Problem
@@ -176,10 +178,13 @@ This is a list of my most recent activity on GitHub.
 - <strong>Full professional proficiency:</strong> English, Hindi
 - <strong>Foreign Languages</strong>: German
 
+- # Github Calendar
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Quick Links
 
 <a target="_blank" href="https://www.linkedin.com/in/tushar-rajora-648b3b234/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-
 
 <!--
 
